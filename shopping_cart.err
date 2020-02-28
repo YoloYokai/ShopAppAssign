@@ -1,0 +1,21 @@
+/COM,ANSYS RELEASE Release 18.0      BUILD 18.0      UP20161219       17:15:28
+
+ *** ERROR ***                           CP =       0.530   TIME= 17:15:31
+ Data file D:\uni\IFB104\semester 1\assessment 2\Joshua Rowley IFB104    
+ N10233121\104\shopping_cart.db has incorrect format, is missing         
+ READ/WRITE permission, or is empty for RESUME.                          
+
+ *** WARNING ***                         CP =       0.530   TIME= 17:15:31
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
+
+ *** ERROR ***                           CP =       0.546   TIME= 17:17:43
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** WARNING ***                         CP =       0.546   TIME= 17:17:43
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
